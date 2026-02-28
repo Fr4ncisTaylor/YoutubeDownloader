@@ -10,6 +10,16 @@ Um aplicativo moderno feito em <strong>Python</strong> com <strong>PyQt6</strong
 
 ---
 
+## 🖼 Demonstração
+
+### ✅ Tela principal - Downloader
+![search](./screenshot/search.png)
+
+### ✅ Resultados da pesquisa
+![results](./screenshot/searched.png)
+
+---
+
 ## 💻 Funcionalidades
 
 - Pesquisa de vídeos diretamente pelo nome ou URL.
