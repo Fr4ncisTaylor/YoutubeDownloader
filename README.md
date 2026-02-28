@@ -43,7 +43,7 @@ Um aplicativo moderno feito em <strong>Python</strong> com <strong>PyQt6</strong
 ## 🚀 Como Usar
 
 1. Clone este repositório:
-   - ```git clone https://github.com/Fr4ncisTaylor/YoutubeDownloader```
-   - ```cd YoutubeDownloader```
-   - ```pip install -r requiriments.txt```
-   - ```python main.py```
+- ```git clone https://github.com/Fr4ncisTaylor/YoutubeDownloader```
+- ```cd YoutubeDownloader```
+- ```pip install -r requiriments.txt```
+- ```python main.py```
